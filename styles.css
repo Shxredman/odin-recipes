@@ -20,13 +20,39 @@ body {
     
 }
 
-.order {
-    padding: 1px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
-
 .unorder {
     padding: 1px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-bottom: 50px;
+    
+}
+
+.zero {
+    font-size: 18px;
+    line-height: 0px
+}
+
+.first {
+    font-size: 18px;
+    line-height: 0px
+}
+
+.second {
+    font-size: 18px;
+    line-height: 0px
+}
+
+.third {
+    font-size: 18px;
+    line-height: 0px
+}
+
+.fourth {
+    font-size: 18px;
+    line-height: 0px;
+}
+
+.ordered {
+    padding: top 0; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 0px;
 }
